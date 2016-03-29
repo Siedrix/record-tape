@@ -1,0 +1,18 @@
+{
+  "name": "becord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/becord.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Daniel Zavala",
+  "license": "ISC",
+  "devDependencies": {
+    "backbone": "^1.3.2",
+    "underscore": "^1.8.3"
+  },
+  "dependencies": {
+    "match-json": "^0.1.1"
+  }
+}
