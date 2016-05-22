@@ -1,8 +1,8 @@
 {
-  "name": "becord",
-  "version": "1.0.0",
+  "name": "record-tape",
+  "version": "0.1.0",
   "description": "",
-  "main": "lib/becord.js",
+  "main": "lib/record-tape.js",
   "scripts": {
     "test": "mocha"
   },
@@ -14,5 +14,9 @@
   },
   "dependencies": {
     "match-json": "^0.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Siedrix/record-tape.git"
+  }  
 }
